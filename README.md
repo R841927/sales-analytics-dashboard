@@ -35,7 +35,7 @@ sales-analytics-dashboard/
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/R841927/sales-analytics-dashboard.git
 cd sales-analytics-dashboard
 ```
 
@@ -95,9 +95,9 @@ This project demonstrates practical skills in data handling, data analysis, inte
 
 **Rupesh Thakur**
 
-GitHub: Add your GitHub profile URL here.
+GitHub: https://github.com/R841927
 
-LinkedIn: Add your LinkedIn profile URL here.
+LinkedIn: https://www.linkedin.com/in/rupesh-thakur-44667922b/
 
 ## 📄 License
 
